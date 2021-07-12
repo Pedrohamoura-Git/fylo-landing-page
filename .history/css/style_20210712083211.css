@@ -160,8 +160,9 @@
         }
 
         #intro img {
+            max-height: 500px;
             width: 100%;
-            /* max-width: 480px; */
+            max-width: 500px;
         }
 
         #intro h1 {
@@ -531,11 +532,6 @@
 
 
 @media (min-width: 900px) {
-    #intro img {
-        margin-top: 2rem;
-        width: 100%;
-        max-width: 500px;
-    }
 
     #productive {
         display: flex;

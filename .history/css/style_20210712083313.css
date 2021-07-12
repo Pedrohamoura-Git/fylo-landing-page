@@ -532,7 +532,7 @@
 
 @media (min-width: 900px) {
     #intro img {
-        margin-top: 2rem;
+        max-height: 500px;
         width: 100%;
         max-width: 500px;
     }
